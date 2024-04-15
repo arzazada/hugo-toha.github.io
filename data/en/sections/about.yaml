@@ -30,18 +30,18 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/arzazada"
 
 - name: Medium
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  icon: "fab fa-medium"
+  url: "https://medium.com/@abbas.rzazada"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/abbas-rzazada/"
 
 - name: Credly
-  icon: "fab fa-twitter"
+  icon: "fab fa-credly"
   URL: "https://www.credly.com/users/abbas-rzazada"
 
 

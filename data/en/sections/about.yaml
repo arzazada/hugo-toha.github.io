@@ -32,7 +32,7 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/example"
 
-- name: Stackoverflow
+- name: Medium
   icon: "fab fa-stack-overflow"
   url: "#"
 
@@ -40,22 +40,11 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "#"
 
-- name: Twitter
+- name: Credly
   icon: "fab fa-twitter"
-  url: "#"
+  URL: "https://www.credly.com/users/abbas-rzazada"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -67,15 +56,18 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+- type: certification
+  name: Red Hat Certified System Administrator (RHCSA)
+  url: "https://www.credly.com/badges/049f216b-788c-4c38-b531-ec3944a3ea92/public_url"
+  badge: "https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"
+
+
 
 - type: certification
   name: Artificial Intelligence and Machine Learning

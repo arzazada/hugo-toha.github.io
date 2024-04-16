@@ -12,7 +12,7 @@ section:
 degrees:
 - name: Master in Computer systems and networks
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2018-2020
   institution:
     name: Azerbaijan Technical University
     url: "https://www.aztu.edu.az/en"
@@ -34,7 +34,7 @@ degrees:
 
 - name: Bachelor in Computer Engineering
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2014-2016
   institution:
     name: Azerbaijan State Oil and Industry University
     url: "https://asoiu.edu.az/"

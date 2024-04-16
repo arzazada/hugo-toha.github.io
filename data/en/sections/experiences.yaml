@@ -13,10 +13,10 @@ experiences:
 - company:
     name: AzInTelecom LLC.
     url: "https://azintelecom.az/en/"
-    location: Baku 
-    #logo: /images/sections/experiences/AzIn.png
+    location: Baku
+    logo: /images/sections/experiences/AzIn.png
     # Can optionally show a different logo for dark theme
-    darklogo: /images/sections/experiences/AzIn.png
+    # darklogo: /images/sections/experiences/AzIn.png
     # company overview
     overview: AzInTelecom LLC (Azerbaijan International Telecom), operating under the Ministry of Digital Development and Transport of the Republic of Azerbaijan provides a wide range of services. AzInTelecom LLC has built its company strategy around essential characteristics such as human value, dependability, innovation, adaptability, transparency, and secrecy. The concepts discussed during the creation of the company's logo and corporate colors were chosen as the major criteria and suited to the company's mission and plans. AzInTelecom LLC's activities include the provision of cloud solutions, international voice traffic transferred between Azerbaijan and other countries, business solutions, information security services, SİMA digital solutions platform and Centralized Information Systems.
   positions:
@@ -26,34 +26,36 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - I specialize in crafting and deploying scalable infrastructure solutions using AWS, Kubernetes, and Terraform, ensuring robustness and flexibility in application environments.
+    - My expertise lies in orchestrating containerized applications seamlessly with Kubernetes on AWS infrastructure, optimizing resource allocation and deployment efficiency
+    - Leveraging AWS services alongside Kubernetes and Terraform, I excel in building and managing resilient infrastructure setups that scale according to application demands
+    - Proficient in architecting and implementing infrastructure solutions with AWS, Kubernetes, and Terraform, I ensure streamlined operations and high availability for mission-critical applications.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
     name: Central Bank of the Republic of Azerbaijan.
     url: "https://cbar.az"
-    location: Nowhere
+    location: Baku
     logo: /images/sections/experiences/cbar.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
+  - designation: Linux System Administrator / DevOps 
     start: March 2016
     end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Utilized DevOps practices to automate deployment processes and improve system reliability
+    - By automating daily tasks through Ansible & Bash scripting, I optimize workflow efficiency and enhance overall system performance.
+    - Responsible for configuring and maintaining critical infrastructure components such as HAProxy, Web servers (Tomcat and Nginx), and DNS servers (Bind), I guarantee high availability and reliability for mission-critical services
+    - Developed and implemented a data backup and recovery system, increasing data security and reducing downtime in the event of a system failure
 
 - company:
     name: AccessBank Azerbaijan

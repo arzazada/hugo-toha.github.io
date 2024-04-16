@@ -18,7 +18,6 @@ skills:
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://aws/" 
 
-
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."

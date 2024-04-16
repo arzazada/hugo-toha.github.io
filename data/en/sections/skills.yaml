@@ -13,7 +13,7 @@ section:
 skills:
 
 - name: Amazon Cloud
-  logo: /images/sections/skills/aws-2.png
+  logo: /images/sections/skills/aws-3.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
 

@@ -37,12 +37,12 @@ skills:
   url: "https://www.docker.com/"
 
 - name: Monitoring
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/m-1.png
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
   url: "https://prometheus.io/"
 
 - name: Log Management
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/l-1.png
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
   url: "https://prometheus.io/"
 

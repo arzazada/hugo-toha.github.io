@@ -21,7 +21,7 @@ section:
 
 # your projects
 projects:
-- name: Kubernetes
+- name: AWS SGA
   logo: /images/sections/projects/kubernetes.png
   role: Owner
   timeline: "March 2018 - Present"
@@ -30,7 +30,7 @@ projects:
   summary: Integrate CI/CD to deploy and maintain a scalable Golang app using Terraform.
   tags: ["professional", "Amazon Cloud", "Terraform"]
 
-- name: Tensorflow
+- name: AWS VPN/VPC
   logo: /images/sections/projects/tensorflow.png
   role: Owner
   timeline: "Jun 2018 - Present"

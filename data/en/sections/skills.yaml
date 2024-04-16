@@ -38,7 +38,7 @@ skills:
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
   url: "https://prometheus.io/"
 
-  - name: Log Management
+- name: Log Management
   logo: /images/sections/skills/prometheus.png
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
   url: "https://prometheus.io/"

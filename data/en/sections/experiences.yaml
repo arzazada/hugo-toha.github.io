@@ -46,7 +46,7 @@ experiences:
     logo: /images/sections/experiences/cbar.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
-    overview: "The Central Bank of Azerbaijan" is the central bank of Azerbaijan Republic. The headquarters of the bank is located in the capital city Baku. 
+    overview: The Central Bank of Azerbaijan is the central bank of Azerbaijan Republic. The headquarters of the bank is located in the capital city Baku. 
   positions:
   - designation: Linux System Administrator / DevOps 
     start: March 2019

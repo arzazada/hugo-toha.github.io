@@ -14,11 +14,11 @@ experiences:
     name: AzInTelecom LLC.
     url: "https://azintelecom.az/en/"
     location: Baku 
-    logo: /images/sections/experiences/AzIn.png
+    #logo: /images/sections/experiences/AzIn.png
     # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company1.jpg
+    darklogo: /images/sections/experiences/AzIn.png
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: AzInTelecom LLC (Azerbaijan International Telecom), operating under the Ministry of Digital Development and Transport of the Republic of Azerbaijan provides a wide range of services. AzInTelecom LLC has built its company strategy around essential characteristics such as human value, dependability, innovation, adaptability, transparency, and secrecy. The concepts discussed during the creation of the company's logo and corporate colors were chosen as the major criteria and suited to the company's mission and plans. AzInTelecom LLC's activities include the provision of cloud solutions, international voice traffic transferred between Azerbaijan and other countries, business solutions, information security services, SİMA digital solutions platform and Centralized Information Systems.
   positions:
   - designation: Senior DevOPS Engineer
     start: Nov 2019

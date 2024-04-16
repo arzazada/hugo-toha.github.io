@@ -18,7 +18,7 @@ skills:
   url: "https://golang.org/"
 
 - name: CI/CD Systems
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/cicd.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
 

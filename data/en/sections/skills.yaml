@@ -50,13 +50,13 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
-- name: Data Persistency management
+- name: Data Persistency
   logo: /images/sections/skills/data-2.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
 
 - name: Database Systems
-  logo: /images/sections/skills/git.png
+  logo: /images/sections/skills/db-1.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 

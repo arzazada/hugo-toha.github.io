@@ -11,7 +11,7 @@ section:
 
 degrees:
 - name: Master in Computer systems and networks
-  icon: fa-microscope
+  icon: fa-university
   timeframe: 2018-2020
   institution:
     name: Azerbaijan Technical University

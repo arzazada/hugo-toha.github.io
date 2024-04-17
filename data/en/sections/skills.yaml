@@ -13,7 +13,7 @@ section:
 skills:
 
 - name: Amazon Cloud
-  logo: /images/sections/skills/aws-10.png
+  logo: /images/sections/skills/aws-13.png
   summary: "I have extensive experience in AWS Cloud and have worked with various key AWS services. Specifically, I have developed application deployment and data storage solutions using fundamental AWS services such as EC2, EKS, ECS, S3, and RDS. Additionally, I have embraced serverless technologies like Lambda functions and API Gateway to create scalable and cost-effective solutions. I am adept at addressing challenges related to flexibility and security provided by AWS."
   url: "https://golang.org/"
 
@@ -45,7 +45,7 @@ Additionally, I have implemented progressive delivery practices using ArgoCD for
 
 - name: Others
   logo: /images/sections/skills/m-1.png
-  summary: "Conducting regular code analysis and quality checks using SonarQube to ensure compliance with coding standards. Establishing secure storage and secret management using Vault for sensitive data. • Ensuring container image security and management with ACR or Harbor. "
+  summary: "Conducting regular code analysis and quality checks using SonarQube to ensure compliance with coding standards. Establishing secure storage and secret management using Vault for sensitive data. Ensuring container image security and management with ACR or Harbor. "
   url: "https://prometheus.io/"
 
 - name: Monitoring

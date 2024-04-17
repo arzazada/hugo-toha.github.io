@@ -19,7 +19,7 @@ skills:
 
 - name: CI/CD Systems
   logo: /images/sections/skills/cicd.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Managing CI/CD pipelines with AWS CodePipeline, AWS CodeDeploy, AWS CodePipelin GitLab, GitLab Runner, and ArgoCD to facilitate automated software delivery."
   url: "https://kubernetes.io/"
 
 - name: Kubernetes
@@ -29,21 +29,22 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as AWS, VMWare Cloud, DigitalOcean etc."
 
 - name: Automation 
   logo: /images/sections/skills/docker.svg
-  summary: "Terraform, Ansible"
+  summary: "Building and setting up new development tools and infrastructure using Terraform, ensuring scalability and reliability. Working with configuration management tools like Ansible to automate and streamline system configurations."
   url: "https://www.docker.com/"
 
 - name: Monitoring
   logo: /images/sections/skills/m-1.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Implementing and maintaining monitoring solutions using Grafana & Prometheus, with an emphasis on real-time performance
+tracking and alerting."
   url: "https://prometheus.io/"
 
 - name: Log Management
   logo: /images/sections/skills/l-1.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Configuring and managing logging systems with AWS CloudWatch, ELK, Loki and implementing centralized error tracking with Sentry."
   url: "https://prometheus.io/"
 
 - name: Essentials 
@@ -52,8 +53,7 @@ skills:
 
 - name: Data Persistency
   logo: /images/sections/skills/data-2.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
+  summary: "Setting up and configuring AWS S3 or MinIO for scalable object storage infrastructure. Deploying and managing persistent storage solutions with Longhorn."
 
 - name: Database Systems
   logo: /images/sections/skills/db-4.png

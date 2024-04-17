@@ -34,7 +34,7 @@ Additionally, I have implemented progressive delivery practices using ArgoCD for
   summary: "Worked with most of the major clouds such as AWS, VMWare Cloud, DigitalOcean etc."
 
 - name: Automation 
-  logo: /images/sections/skills/docker.svg
+  logo: /images/sections/skills/a.png
   summary: "Building and setting up new development tools and infrastructure using Terraform, ensuring scalability and reliability. Working with configuration management tools like Ansible to automate and streamline system configurations."
   url: "https://www.docker.com/"
 

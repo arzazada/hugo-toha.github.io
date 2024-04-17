@@ -19,12 +19,14 @@ skills:
 
 - name: CI/CD Systems
   logo: /images/sections/skills/cicd.png
-  summary: "Managing CI/CD pipelines with AWS CodePipeline, AWS CodeDeploy, AWS CodePipelin GitLab, GitLab Runner, and ArgoCD to facilitate automated software delivery."
+  summary: "I have extensive experience in CI/CD (Continuous Integration/Continuous Deployment) systems, utilizing a range of tools to automate and streamline software delivery pipelines. I am proficient in configuring and managing CI/CD workflows using AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, as well as GitLab CI/CD pipelines with GitLab Runner. These tools have enabled me to automate testing, build processes, and deployment strategies across diverse environments.
+
+Additionally, I have implemented progressive delivery practices using ArgoCD for Kubernetes deployments, ensuring efficient and reliable application updates. By leveraging these technologies, I have optimized release cycles, enhanced deployment reliability, and facilitated collaboration between development and operations teams."
   url: "https://kubernetes.io/"
 
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "I have significant experience working with Kubernetes and deploying applications on containerized environments. I am proficient in managing Kubernetes clusters, including deploying, scaling, and troubleshooting applications. I have leveraged core Kubernetes components such as Pods, Deployments, and Services to architect resilient and scalable microservices architectures. Additionally, I have implemented CI/CD pipelines using tools like Jenkins and GitLab in conjunction with Kubernetes for automated application deployments. My expertise in Kubernetes extends to optimizing resource utilization and ensuring high availability of applications in cloud-native environments."
   url: "https://kubernetes.io/"
 
 - name: Cloud Computing

@@ -14,7 +14,7 @@ skills:
 
 - name: Amazon Cloud
   logo: /images/sections/skills/aws-10.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "I have extensive experience in AWS Cloud and have worked with various key AWS services. Specifically, I have developed application deployment and data storage solutions using fundamental AWS services such as EC2, S3, and RDS. Additionally, I have embraced serverless technologies like Lambda functions and API Gateway to create scalable and cost-effective solutions. I am adept at addressing challenges related to flexibility and security provided by AWS."
   url: "https://golang.org/"
 
 - name: CI/CD Systems

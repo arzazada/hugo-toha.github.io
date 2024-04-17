@@ -15,19 +15,19 @@ skills:
 - name: Amazon Cloud
   logo: /images/sections/skills/aws-13.jpg
   summary: "I have extensive experience in AWS Cloud and have worked with various key AWS services. Specifically, I have developed application deployment and data storage solutions using fundamental AWS services such as EC2, EKS, ECS, S3, and RDS. Additionally, I have embraced serverless technologies like Lambda functions and API Gateway to create scalable and cost-effective solutions. I am adept at addressing challenges related to flexibility and security provided by AWS."
-  url: "https://golang.org/"
+  #URL: "" "https://golang.org/"
 
 - name: CI/CD Systems
   logo: /images/sections/skills/cicd.png
   summary: "I have extensive experience in CI/CD systems, utilizing a range of tools to automate and streamline software delivery pipelines. I am proficient in configuring and managing CI/CD workflows using AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, as well as GitLab CI/CD pipelines with GitLab Runner. These tools have enabled me to automate testing, build processes, and deployment strategies across diverse environments.
 
 Additionally, I have implemented progressive delivery practices using ArgoCD for Kubernetes deployments, ensuring efficient and reliable application updates. By leveraging these technologies, I have optimized release cycles, enhanced deployment reliability, and facilitated collaboration between development and operations teams."
-  url: "https://kubernetes.io/"
+ # url: "https://kubernetes.io/"
 
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
   summary: "I have significant experience working with Kubernetes and deploying applications on containerized environments. I am proficient in managing Kubernetes clusters, including deploying, scaling, and troubleshooting applications. I have leveraged core Kubernetes components such as Pods, Deployments, and Services to architect resilient and scalable microservices architectures. Additionally, I have implemented CI/CD pipelines using tools like Jenkins and GitLab in conjunction with Kubernetes for automated application deployments. My expertise in Kubernetes extends to optimizing resource utilization and ensuring high availability of applications in cloud-native environments."
-  url: "https://kubernetes.io/"
+  #url: "https://kubernetes.io/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
@@ -36,27 +36,27 @@ Additionally, I have implemented progressive delivery practices using ArgoCD for
 - name: Automation 
   logo: /images/sections/skills/a.png
   summary: "Building and setting up new development tools and infrastructure using Terraform, ensuring scalability and reliability. Working with configuration management tools like Ansible to automate and streamline system configurations."
-  url: "https://www.docker.com/"
+ # url: "https://www.docker.com/"
 
 - name: Database Systems
   logo: /images/sections/skills/db-4.png
   summary: "I have experience with various database systems including PostgreSQL, MongoDB, DynamoDB, and AWS RDS. I've optimized data integrity and performance using PostgreSQL for relational databases. Additionally, I've developed flexible and scalable data storage solutions with MongoDB and DynamoDB for NoSQL databases. My expertise includes data modeling, query optimization, and strong data management strategies."
-  url: "https://git-scm.com/"
+ # url: "https://git-scm.com/"
 
 - name: Others
   logo: /images/sections/skills/m-1.png
   summary: "Conducting regular code analysis and quality checks using SonarQube to ensure compliance with coding standards. Establishing secure storage and secret management using Vault for sensitive data. Ensuring container image security and management with ACR or Harbor. "
-  url: "https://prometheus.io/"
+#  url: "https://prometheus.io/"
 
 - name: Monitoring
   logo: /images/sections/skills/m-1.png
   summary: "Implementing and maintaining monitoring solutions using Grafana & Prometheus, with an emphasis on real-time performance tracking and alerting."
-  url: "https://prometheus.io/"
+ # url: "https://prometheus.io/"
 
 - name: Log Management
   logo: /images/sections/skills/l-1.png
   summary: "Configuring and managing logging systems with AWS CloudWatch, ELK, Loki and implementing centralized error tracking with Sentry."
-  url: "https://prometheus.io/"
+ # url: "https://prometheus.io/"
 
 - name: Essentials 
   logo: /images/sections/skills/linux.png

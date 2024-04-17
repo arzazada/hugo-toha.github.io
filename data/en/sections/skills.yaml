@@ -59,9 +59,9 @@ tracking and alerting."
 
 - name: Database Systems
   logo: /images/sections/skills/db-4.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "I have experience with various database systems including PostgreSQL, MongoDB, DynamoDB, and AWS RDS. I've optimized data integrity and performance using PostgreSQL for relational databases. Additionally, I've developed flexible and scalable data storage solutions with MongoDB and DynamoDB for NoSQL databases. My expertise includes data modeling, query optimization, and strong data management strategies."
   url: "https://git-scm.com/"
 
-- name: Coding & Scripting
-  logo: /images/sections/skills/c-2.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+# - name: Coding & Scripting
+#   logo: /images/sections/skills/c-2.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

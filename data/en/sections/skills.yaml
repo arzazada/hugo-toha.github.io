@@ -19,7 +19,7 @@ skills:
 
 - name: CI/CD Systems
   logo: /images/sections/skills/cicd.png
-  summary: "I have extensive experience in CI/CD (Continuous Integration/Continuous Deployment) systems, utilizing a range of tools to automate and streamline software delivery pipelines. I am proficient in configuring and managing CI/CD workflows using AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, as well as GitLab CI/CD pipelines with GitLab Runner. These tools have enabled me to automate testing, build processes, and deployment strategies across diverse environments.
+  summary: "I have extensive experience in CI/CD systems, utilizing a range of tools to automate and streamline software delivery pipelines. I am proficient in configuring and managing CI/CD workflows using AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, as well as GitLab CI/CD pipelines with GitLab Runner. These tools have enabled me to automate testing, build processes, and deployment strategies across diverse environments.
 
 Additionally, I have implemented progressive delivery practices using ArgoCD for Kubernetes deployments, ensuring efficient and reliable application updates. By leveraging these technologies, I have optimized release cycles, enhanced deployment reliability, and facilitated collaboration between development and operations teams."
   url: "https://kubernetes.io/"

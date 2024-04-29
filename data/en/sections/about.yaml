@@ -58,6 +58,11 @@ resourceLinks:
 badges:
 
 - type: certification
+  name: HashiCorp Certified: Terraform Associate (003)
+  url: "https://www.credly.com/badges/dde96ebb-8d4b-4d94-838a-aec554371307/public_url"
+  badge: "https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
+
+- type: certification
   name: Red Hat Certified Engineer (RHCE)
   url: "https://www.credly.com/badges/2b3345b3-fb9c-4236-83a7-b05075a647fb/public_url"
   badge: "https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png"

@@ -58,7 +58,7 @@ resourceLinks:
 badges:
 
 - type: certification
-  name: HashiCorp Certified: Terraform Associate (003)
+  name: "HashiCorp Certified: Terraform Associate (003)"
   url: "https://www.credly.com/badges/dde96ebb-8d4b-4d94-838a-aec554371307/public_url"
   badge: "https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
 
@@ -72,10 +72,10 @@ badges:
   url: "https://www.credly.com/badges/049f216b-788c-4c38-b531-ec3944a3ea92/public_url"
   badge: "https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"
 
-- type: certification
-  name: Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
-  url: "https://www.credly.com/badges/aeeda860-8d3f-42c7-933b-a77205788a0b/public_url"
-  badge: "https://images.credly.com/size/680x680/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png"
+# - type: certification
+#   name: Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
+#   url: "https://www.credly.com/badges/aeeda860-8d3f-42c7-933b-a77205788a0b/public_url"
+#   badge: "https://images.credly.com/size/680x680/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png"
 
 - type: soft-skill-indicator
   name: Leadership

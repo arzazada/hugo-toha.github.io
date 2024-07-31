@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/AzIn.png
     # company overview
-  #  overview: AzInTelecom LLC (Azerbaijan International Telecom), operating under the Ministry of Digital Development and Transport of the Republic of Azerbaijan provides a wide range of services. AzInTelecom LLC has built its company strategy around essential characteristics such as human value, dependability, innovation, adaptability, transparency, and secrecy. The concepts discussed during the creation of the company's logo and corporate colors were chosen as the major criteria and suited to the company's mission and plans. AzInTelecom LLC's activities include the provision of cloud solutions, international voice traffic transferred between Azerbaijan and other countries, business solutions, information security services, SİMA digital solutions platform and Centralized Information Systems.
+    overview: AzInTelecom LLC (Azerbaijan International Telecom), operating under the Ministry of Digital Development and Transport of the Republic of Azerbaijan provides a wide range of services. AzInTelecom LLC has built its company strategy around essential characteristics such as human value, dependability, innovation, adaptability, transparency, and secrecy. The concepts discussed during the creation of the company's logo and corporate colors were chosen as the major criteria and suited to the company's mission and plans. AzInTelecom LLC's activities include the provision of cloud solutions, international voice traffic transferred between Azerbaijan and other countries, business solutions, information security services, SİMA digital solutions platform and Centralized Information Systems.
   positions:
   - designation: Senior DevOPS Engineer
     start: Sep 2023
@@ -45,7 +45,7 @@ experiences:
     logo: /images/sections/experiences/MSolution.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company2.jpg
-    overview: The Central Bank of Azerbaijan is the central bank of Azerbaijan Republic. The headquarters of the bank is located in the capital city Baku. 
+    #overview: The Central Bank of Azerbaijan is the central bank of Azerbaijan Republic. The headquarters of the bank is located in the capital city Baku. 
   positions:
   - designation: Platform Engineer
     start: Oct 2022

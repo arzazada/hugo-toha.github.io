@@ -58,6 +58,11 @@ resourceLinks:
 badges:
 
 - type: certification
+  name: "AWS Certified Solutions Architect – Associate"
+  url: "https://www.credly.com/badges/af1ae63f-46a4-4fa7-b84d-72a9ad201c20/public_url"
+  badge: "https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+
+- type: certification
   name: "HashiCorp Certified: Terraform Associate (003)"
   url: "https://www.credly.com/badges/dde96ebb-8d4b-4d94-838a-aec554371307/public_url"
   badge: "https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
